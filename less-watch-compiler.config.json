@@ -1,0 +1,7 @@
+{
+    "allowedExtentions": [".less"],
+    "minified": false,
+    "sourcemap": false,
+    "watchFolder": "less",
+    "outputFolder": "less"
+}
